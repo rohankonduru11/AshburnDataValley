@@ -1,0 +1,109 @@
+Name,Address,Operator,Capacity/Details
+LC1 - CloudHQ Data Center,"21955 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,Large-scale hyperscale/colocation data center on CloudHQ LC Campus
+CloudHQ LC2,"44621 Waxpool Rd, Ashburn, VA 20147",CloudHQ,"Part of CloudHQ LC Campus, 50+ MW critical IT load"
+CloudHQ LC3,"44631 Waxpool Rd, Ashburn, VA 20147",CloudHQ,Hyperscale facility on CloudHQ LC Campus
+CloudHQ LC4,"22210 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,High-density cloud computing facility
+CloudHQ LC5,"21615 Lockridge Rd, Ashburn, VA 20147",CloudHQ,Multi-megawatt hyperscale data hall
+CloudHQ LC8,"22210 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,Next-gen hyperscale infrastructure
+CloudHQ LC9,"22210 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,High-efficiency cooling and power density
+CloudHQ LC10,"22210 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,Hyperscale campus data center
+CloudHQ LC11,"22131 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,Multi-tier redundant power architecture
+CloudHQ LC12,"22131 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,High-density cloud and AI infrastructure
+CloudHQ LC13,"22131 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,Hyperscale campus development
+CloudHQ LC14,"22131 Loudoun County Pkwy, Ashburn, VA 20147",CloudHQ,Large-scale cloud deployment campus
+Sabey Data Centers - Ashburn Building A,"21735 Red Rum Dr, Ashburn, VA 20147",Sabey Data Centers,Intergate.Ashburn campus offering powered shell and managed modules
+Sabey Data Centers - Ashburn Building B,"21745 Red Rum Dr, Ashburn, VA 20147",Sabey Data Centers,Carrier-neutral facility leasing colocation and powered shell space
+Sabey Data Centers - Ashburn Building C,"21741 Red Rum Dr, Ashburn, VA 20147",Sabey Data Centers,38-acre purpose-built campus designed for high-density AI (>100kW per rack)
+Aligned Data Centers - Ashburn IAD-01,"21890 Uunet Dr, Ashburn, VA 20147",Aligned Data Centers,"370,000 sq. ft. campus with 60 MW critical capacity and Delta Cooling"
+Aligned Data Centers - Ashburn IAD-02,"21821 Uunet Dr, Ashburn, VA 20147",Aligned Data Centers,"513,000 sq. ft. ultra-efficient campus with 120 MW power capacity"
+NTT Global Data Centers Americas - VA1,"44664 Guilford Dr, Ashburn, VA 20147","NTT DATA, Inc.","EPA ENERGY STAR certified, 14.4 MW critical IT load, 100% uptime SLA"
+NTT Global Data Centers Americas - VA2,"44610 Guilford Dr, Ashburn, VA 20147","NTT DATA, Inc.","14 MW IT load in seven turn-key vaults, Virginia tax exemption eligible"
+NTT Global Data Centers Americas - VA3,"21583 Megawatt Dr, Ashburn, VA 20147","NTT DATA, Inc.","245,000 sq. ft. facility with 16 MW capacity on 78-acre campus"
+NTT Global Data Centers Americas - VA4,"21583 Megawatt Dr, Ashburn, VA 20147","NTT DATA, Inc.",32 MW critical IT load on 224 MW hyperscale campus
+NTT Global Data Centers Americas - VA5,"21583 Megawatt Dr, Ashburn, VA 20147","NTT DATA, Inc.","32 MW critical IT load, high-density air and liquid cooling options"
+NTT Global Data Centers Americas - VA6,"44495 Gigabit Plaza, Ashburn, VA 20147","NTT DATA, Inc.","180,000 sq. ft. LEED-certified facility delivering 24 MW capacity"
+NTT Global Data Centers Americas - VA7,"44371 Gigabit Plaza, Ashburn, VA 20147","NTT DATA, Inc.",36 MW critical IT load facility for hyperscale clients
+NTT Global Data Centers Americas - VA8,"44725 Gigabit Plaza, Ashburn, VA 20147","NTT DATA, Inc.",Scalable secure infrastructure with 24/7 monitoring on 224 MW campus
+NTT Global Data Centers Americas - VA9,"44720 Gigabit Plaza, Ashburn, VA 20147","NTT DATA, Inc.",High-density hyperscale expansion building
+Centersquare Northern Virginia Data Center (IAD4-A),"21571 Beaumeade Cir, Ashburn, VA 20147",Centersquare,"57,927 sq. ft. raised floor, 35.8 MW utility power, 100% SLA"
+Centersquare Northern Virginia Data Center (IAD4-B),"21561 Beaumeade Cir, Ashburn, VA 20147",Centersquare,"Colocation, cloud, and high-density carrier-neutral interconnects"
+Equinix Data Center - DC1,"21711 Filigree Ct, Ashburn, VA 20147",Equinix,Foundational hub of original Ashburn peering exchange ecosystem
+Equinix Data Center - DC2,"21715 Filigree Ct, Ashburn, VA 20147",Equinix,"118,446 sq. ft. colocation space, access to major US East Coast IX"
+Equinix Data Center - DC3,"44470 Chilum Pl, Ashburn, VA 20147",Equinix,Washington DC regional peering and managed colocation facility
+Equinix Data Center - DC4,"21691 Filigree Ct, Ashburn, VA 20147",Equinix,LEED and SSAE16 SOC-1 Type II certified interconnect hub
+Equinix Data Center - DC5,"21701 Filigree Ct, Ashburn, VA 20147",Equinix,Direct connectivity to cloud exchange and enterprise partners
+Equinix Data Center - DC6,"21721 Filigree Ct, Ashburn, VA 20147",Equinix,High-density colocation space on main Equinix Ashburn campus
+Equinix Data Center - DC10,"21551 Beaumeade Cir, Ashburn, VA 20147",Equinix,Tier-3 enterprise facility with high-density rack support
+Equinix Data Center - DC11,"21721 Filigree Ct Suite B, Ashburn, VA 20147",Equinix,Hosts Oracle Solution Center for hybrid & multicloud testing
+Equinix Data Center - DC12,"44790 Performance Cir, Ashburn, VA 20147",Equinix,Core hub of Ashburn Campus featuring Equinix Fabric services
+Equinix Data Center - DC13,"21830 Uunet Way, Ashburn, VA 20147",Equinix,Built for large deployments and explosive data growth
+Equinix Data Center - DC15,"44780 Performance Cir, Ashburn, VA 20147",Equinix,Advanced network exchange and cloud connectivity suite
+Equinix Data Center - DC16,"44740 Performance Cir, Ashburn, VA 20147",Equinix,State-of-the-art facility for high-speed network exchange
+Equinix Data Center - DC17,"44710 Performance Cir, Ashburn, VA 20147",Equinix,Expanded capacity building on Performance Circle campus
+Equinix Data Center - DC21,"22175 Beaumeade Cir, Ashburn, VA 20147",Equinix,Gateway facility connecting US networks to Europe and global markets
+Equinix Data Center - DC22,"22165 Beaumeade Cir, Ashburn, VA 20147",Equinix,IBX facility delivering scalable platform for managed cloud services
+Digital Realty Devin Shafron (IAD12),"43881 Devin Shafron Dr, Ashburn, VA 20147",Digital Realty,"180,000 sq. ft. data center with 2N UPS and N+1 cooling redundancy"
+Digital Realty Devin Shafron (IAD13),"43831 Devin Shafron Dr, Ashburn, VA 20147",Digital Realty,"117,071 sq. ft. raised floor capacity facility"
+Digital Realty Devin Shafron (IAD14),"43791 Devin Shafron Dr, Ashburn, VA 20147",Digital Realty,Supports Turn-Key Flex and Powered Base Building configurations
+Digital Realty Devin Shafron (IAD15),"43915 Devin Shafron Dr, Ashburn, VA 20147",Digital Realty,Part of 98-acre campus with 230 MW total site capacity
+Digital Realty Chilum Place (IAD18),"44470 Chilum Pl, Ashburn, VA 20147",Digital Realty,High-density colocation space in Data Center Alley
+Digital Realty Devin Shafron (IAD24),"43830 Devin Shafron Dr, Ashburn, VA 20147",Digital Realty,"113,000+ sq. ft. facility with carrier-neutral fiber options"
+Digital Realty Digital Loudoun Plaza (IAD35),"43940 Digital Loudoun Plz, Ashburn, VA 20147",Digital Realty,98-acre connected campus building
+Digital Realty Digital Loudoun Plaza (IAD36),"43780 Digital Loudoun Plz, Ashburn, VA 20147",Digital Realty,Custom Powered Base Building and Turn-key data halls
+Digital Realty Digital Loudoun Plaza (IAD37),"44060 Digital Loudoun Plz, Ashburn, VA 20147",Digital Realty,Seventh building on Digital Loudoun campus
+Digital Realty Digital Loudoun Plaza (IAD38),"44100 Digital Loudoun Plz, Ashburn, VA 20147",Digital Realty,Premier connectivity facility with direct fiber backbone
+Digital Realty Northern Virginia (IAD39),"44274 Round Table Plz Bldg L, Ashburn, VA 20147",Digital Realty,"Building L, platformDIGITAL suite with 100% Uptime SLA"
+Digital Realty Data Center (IAD40),"44372 Round Table Plz Bldg M, Ashburn, VA 20147",Digital Realty,Perfect for secure large-scale deployments in Dulles Tech Corridor
+Digital Realty Data Center (IAD41),"44372 Round Table Plz Bldg M, Ashburn, VA 20147",Digital Realty,Secure large-scale deployment suite on Digital Loudoun campus
+Digital Realty Broderick Drive (IAD42),"22124 Broderick Dr Bldg R, Ashburn, VA 20147",Digital Realty,High-security wholesale data center facility
+Digital Realty Round Table Plaza (IAD73),"44540 Round Table Plz, Ashburn, VA 20147",Digital Realty,Hyperscale cloud expansion building
+Digital Realty Chillum Place (ACC2),"44490 Chillum Pl, Ashburn, VA 20147",Digital Realty,Ashburn Connected Campus building with high power density
+Digital Realty Hastings Drive (ACC3),"44520 Hastings Dr, Ashburn, VA 20147",Digital Realty,"146,999 sq. ft. whitespace with 13.9 MW power capacity"
+Digital Realty Hastings Drive (ACC4),"44480 Hastings Dr, Ashburn, VA 20147",Digital Realty,Uses eco-friendly reclaimed water for evaporative chilling
+Digital Realty Hastings Drive (ACC5),"44521 Hastings Dr, Ashburn, VA 20147",Digital Realty,LEED Gold-certified facility on 17+ acres in Data Center Alley
+Digital Realty Chilum Place (ACC6),"44461 Chilum Pl, Ashburn, VA 20147",Digital Realty,"220,000 sq. ft. facility with 26 MW critical power capacity"
+Digital Realty Gresham Drive (ACC7),"21625 Gresham Dr, Ashburn, VA 20147",Digital Realty,High-performance energy efficient data center
+Digital Realty Smith Switch (ACC8),"21362 Smith Switch Rd, Ashburn, VA 20147",Digital Realty,High-density hyperscale expansion facility
+Digital Realty Sir Timothy (ACC9),"21745 Sir Timothy Dr, Ashburn, VA 20147",Digital Realty,High-reliability facility on ACC campus
+Digital Realty Sir Timothy (ACC10),"21744 Sir Timothy Dr, Ashburn, VA 20147",Digital Realty,Next-generation data floor space on ACC campus
+Cologix ASH1 Ashburn Data Center,"21745 Beaumeade Cir, Ashburn, VA 20147",Cologix,Strategically positioned within Data Center Alley interconnection hub
+Cologix ASH1-S Scalelogix,"21745 Beaumeade Cir, Ashburn, VA 20147",Cologix,Hyperscale edge capacity combined with dense interconnects
+Cologix ASH2 Data Center,"21673 Beaumeade Cir, Ashburn, VA 20147",Cologix,"226,000 sq. ft. facility offering 51 MW capacity with liquid & air cooling"
+H5 Data Centers - Ashburn,"21800 Beaumeade Cir, Ashburn, VA 20147",H5 Data Centers,"70,000 sq. ft. powered shell with capacity up to 20 MW critical load"
+DataBank IAD1 - Ashburn Campus,"21635 Red Rum Dr, Ashburn, VA 20147",DataBank,Tier III colocation facility near Dulles Airport with high-density hosting
+DataBank IAD3 - Ashburn Campus,"21630 Red Rum Dr, Ashburn, VA 20147",DataBank,Doubled DataBank footprint with cloud & colocation solutions
+DataBank IAD4 - Ashburn Campus,"21625 Red Rum Dr, Ashburn, VA 20147",DataBank,"60,000 raised sq. ft. adding 20 MW to 70 MW total campus capacity"
+QTS Ashburn 3 DC1,"22291 Shellhorn Rd, Ashburn, VA 20147",QTS Data Centers,"304,934 sq. ft. facility with 42 MW critical power capacity"
+QTS Ashburn 3 DC2,"22271 Shellhorn Rd, Ashburn, VA 20147",QTS Data Centers,"306,894 sq. ft. facility with 42 MW critical power capacity"
+Vantage VA31 - Ashburn III,"43301 Data Dr, Ashburn, VA 20147",Vantage Data Centers,Part of 134-acre campus offering 288 MW total critical load
+Vantage VA32 - Ashburn III,"43321 Data Dr, Ashburn, VA 20147",Vantage Data Centers,Multi-story high-density facility on 2.3M sq. ft. campus
+Vantage VA33 - Ashburn III,"43311 Data Dr, Ashburn, VA 20147",Vantage Data Centers,Hyperscale cloud data center with water-cooled chillers
+Vantage VA3 - Ashburn III Campus,"19509 Belmont Ridge Rd, Ashburn, VA 20147",Vantage Data Centers,Massive power capacity and robust connectivity campus
+CyrusOne NVA14,"21529 Beaumeade Cir, Ashburn, VA 20147",CyrusOne Data Centers,"265,000 sq. ft. facility offering 54 MW critical power across six data halls"
+CyrusOne Broadlands Campus Bldg 1,"Education Ct & Broadlands Blvd, Ashburn, VA 20148",CyrusOne Data Centers,Hyperscale development campus in Loudoun County
+CyrusOne Broadlands Campus Bldg 2,"Education Ct & Broadlands Blvd, Ashburn, VA 20148",CyrusOne Data Centers,High-density cloud & AI compute facility
+CyrusOne Broadlands Campus Bldg 3,"Education Ct & Broadlands Blvd, Ashburn, VA 20148",CyrusOne Data Centers,Multi-story energy-efficient data hall building
+Compass Loudoun County I - Building A,"42310 Thunderball Dr, Ashburn, VA 20148",Compass Datacenters,"79 MW campus with 625,000 sq. ft. of total space"
+Compass Loudoun County I - Building B,"42250 Thunderball Dr, Ashburn, VA 20148",Compass Datacenters,Dedicated hyperscale module with customizable floor plans
+Compass Loudoun County I - Building C,"42251 Thunderball Dr, Ashburn, VA 20148",Compass Datacenters,Water-free cooling system data center
+Compass Loudoun County I - Building D,"42311 Thunderball Dr, Ashburn, VA 20148",Compass Datacenters,High-density cloud infrastructure building
+STACK Infrastructure NVA01A,"22080 Pacific Blvd, Sterling, VA 20166",STACK Infrastructure,Flexible enterprise and hyperscale colocation campus
+STACK Infrastructure Loudoun Campus Bldg 1,"Evergreen Mills Rd, Ashburn, VA 20148",STACK Infrastructure,"Built for AI, cloud, and hyperscale workloads"
+STACK Infrastructure Loudoun Campus Bldg 2,"Evergreen Mills Rd, Ashburn, VA 20148",STACK Infrastructure,High-density campus expansion building
+Amazon AWS IAD - Smith Campus,"21263 Smith Switch Rd, Ashburn, VA 20147",Amazon AWS,Dedicated cloud infrastructure campus for AWS East region
+Amazon AWS IAD - Loudoun County Campus,"20935 Loudoun County Pkwy, Ashburn, VA 20147",Amazon AWS,Major AWS cloud computing hub
+Amazon AWS IAD - Import Campus,"44351 Import Plz, Ashburn, VA 20147",Amazon AWS,Hyperscale availability zone cluster
+Amazon AWS IAD - Interconnection Campus,"44854 Interconnection Plz, Ashburn, VA 20147",Amazon AWS,Direct cloud connectivity and routing hub
+Amazon AWS - Bridgefield Tech Center Bldg A,"Presidential Dr, Ashburn, VA 20147",Amazon AWS,"800,000 sq. ft. 4-building campus on 122 acres"
+Amazon AWS - Bridgefield Tech Center Bldg B,"Presidential Dr, Ashburn, VA 20147",Amazon AWS,Hyperscale cloud compute facility
+Amazon AWS - George Washington Blvd,"George Washington Blvd, Ashburn, VA 20147",Amazon AWS,122-acre university property redevelopment for AWS cloud
+Google Loudoun County Data Center 1,"20491 Goose Landing Ln, Leesburg, VA 20175",Google,Cornerstone of Google's East Coast cloud infrastructure
+Google Loudoun County Data Center 2,"20481 Goose Landing Ln, Leesburg, VA 20175",Google,Operational since 2021 supporting Google Cloud services
+Microsoft Compass Creek Campus,"19515 Compass Creek Pkwy, Leesburg, VA 20175",Microsoft,Azure cloud infrastructure hub in Loudoun County
+Microsoft Leesburg Inclusion Ln (IAD4),"41700 Inclusion Ln, Leesburg, VA 20175",Microsoft,High-security Azure availability zone facility
+Visa Ashburn Data Center,"45005 Saber Jet Pkwy, Ashburn, VA 20147",Visa Inc.,Primary global payment processing facility for VisaNet handling billions daily
+PowerHouse Data Centers - Quantum Connect,"22001 Loudoun County Pkwy, Ashburn, VA 20147",PowerHouse Data Centers,Next-gen powered shell campus in Data Center Alley
+Iron Mountain Ashburn (VA1),"21805 Beaumeade Cir, Ashburn, VA 20147",Iron Mountain,100% renewable energy powered compliance-focused data center
+CoreSite VA1-VA3 Campus,"21600 Beaumeade Cir, Ashburn, VA 20147",CoreSite,Interconnection-rich campus with low-latency access to major networks
+Lumen Ashburn Data Center,"44633 Guilford Dr, Ashburn, VA 20147",Lumen,Enterprise colocation and global edge routing facility
+LightEdge Ashburn,"21721 Filigree Ct, Ashburn, VA 20147",LightEdge,Hybrid cloud facility for IBM i and AIX direct cloud interconnects

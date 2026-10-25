@@ -1,0 +1,9 @@
+import 'package:flutter/material.dart';
+
+import 'screens/home_screen.dart';
+
+export 'screens/home_screen.dart' show AshburnImpactApp;
+
+void main() {
+  runApp(const AshburnImpactApp());
+}
